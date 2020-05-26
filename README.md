@@ -8,6 +8,8 @@
 
 4.suicide_bert.ipynb:用自殺留言資料集來訓練BERT來做分類任務。
 
+![image](https://github.com/openaifab/BERT/blob/master/bert.jpg)
+
 相關連結:
 
 1.https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html
